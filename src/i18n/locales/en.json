@@ -434,7 +434,10 @@
       "vhs_2": "VHS 2",
       "vhs_3": "VHS 3",
       "vhs_4": "VHS 4",
-      "vhs_all": "VHS ALL"
+      "vhs_all": "VHS ALL",
+      "rain": "Rain",
+      "smoke_fog": "Smoke Fog"
+
 
     },
     "audio": {
